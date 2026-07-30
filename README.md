@@ -82,6 +82,18 @@ flowchart TD
 
 ---
 
+## 🎥 Video Explanation
+
+<div align="center">
+
+[![Watch the Explanation Video](https://img.shields.io/badge/▶%20Watch%20Video-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1NFHbd3RouULT0r1KjjpqLQi1bHYzw8xK/view?usp=sharing)
+
+*Click the badge above to watch a full walkthrough of the code, logic, and program flow.*
+
+</div>
+
+---
+
 ## 💻 Example Console Interaction
 
 ```
@@ -198,7 +210,7 @@ Type `42` anywhere the program doesn't expect it... just kidding, but hey — yo
 
 📧 Email: [creativewithvaghela.vatsal@gmail.com](mailto:creativewithvaghela.vatsal@gmail.com)
 
-[![LinkedIn]https://www.linkedin.com/in/vatsal-v-9859a73a1/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vatsal%20Vaghela-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsal-v-9859a73a1/)
 
 </div>
 
